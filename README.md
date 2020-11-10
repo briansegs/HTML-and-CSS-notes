@@ -8,3 +8,7 @@ There are many things to see:
 * The results of the projects I completed.
 * The visual and interactive representation of my learnings, experimenting, and having fun.
 
+preview:
+
+![img](https://github.com/briansegs/HTML-and-CSS-notes/blob/master/notes-preview1.jpg?raw=true)
+
